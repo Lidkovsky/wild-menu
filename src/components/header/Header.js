@@ -24,7 +24,7 @@ export default function Header(props) {
                 <img src={backBtn} alt='back button' onClick={() => navigate(-1)} style={{filter: 'invert(100%', width: '30px'}}/>
             </div>
                 <div className='logoDiv'>
-                    <img className='logo' src={wildLogo} alt="wild logo" onClick={() => navigate("/wild_menu")}/>
+                    <img className='logo' src={wildLogo} alt="wild logo" onClick={() => navigate("/")}/>
                 </div>
                 <div className='burger' onClick={() => setShowMenu(!showMenu)}>
                     <img src={burger} style={{filter: 'invert(100%', width: '30px'}} />

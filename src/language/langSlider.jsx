@@ -66,7 +66,7 @@ console.log(language + " THis is context in langSlider")
        // setLanguageNumber(2);
             setLanguageBTN({
               font: "",
-              text: "!יללה"})
+              text: "!יאללה"})
             break;    
     }}}
         slidesPerView={"auto"}

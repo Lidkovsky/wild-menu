@@ -1,6 +1,6 @@
 
 body{
-font-family: 'Reggae One', cursive;
+font-family: 'Gabriela', serif;
 
 }
 
@@ -36,7 +36,6 @@ font-family: 'Reggae One', cursive;
     border-radius: 8px;
 }
 .menuItemName{
-    font-family: 'Reggae One';
     display: inline;
     margin-left: 50px;
     margin-right: 50px;
@@ -52,7 +51,6 @@ font-family: 'Reggae One', cursive;
 }
 
 a{
-    font-family: 'Reggae One', cursive;
     color:white;
     text-decoration: none;
 }

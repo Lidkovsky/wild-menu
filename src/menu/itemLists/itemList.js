@@ -10,8 +10,8 @@ export default function useItems(){
 
     drinks: [{name: "Non-Alcoholic", items:[
     {itemName: "Coca-Cola", imageURL: "https://bit.ly/3zJ0ami", description: "0.75ml bottle", price: 15},
-    {itemName: "Juice", imageURL: "https://bit.ly/3zJ0ami", description: "", price: 10},
-    {itemName: "Cocktail", imageURL: "https://bit.ly/3zJ0ami", description: "Ask bartender", price: 20}]},
+    {itemName: "Juice", imageURL: "https://prigat.co.il/wp-content/themes/prigat2020/img/logo.png", description: "", price: 10},
+    {itemName: "Cocktail", imageURL: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F156561%2Fisolated%2Fpreview%2Feb07eab6dafdc48777077575f1c4bb79-bloody-mary-cocktail-icon-by-vexels.png&f=1&nofb=1", description: "Ask bartender", price: 20}]},
     {name: "Beer", items: [
     {itemName: "Budweiser", imageURL: "https://bit.ly/3vVtxkq", description: "Medium-bodied, flavorful, crisp American-style lager. 5%", price: "15/20"},
     {itemName: "Edelweiss", imageURL: "https://www.edelweissbeer.com/frontend/assets/images/edelweiss-logo.svg", description: "This particularly smooth beer is brewed with all natural ingredients with a touch of mountain herbs and spices. 4,8%", price: "15/20"},
@@ -47,7 +47,7 @@ export default function useItems(){
     {itemName: "Xenta", imageURL: "https://xenta.com/wp-content/uploads/2019/04/cropped-logo-1-1.png", description: "Provides for the long and careful mixing of 10 herbs and spices, predominantly of Alpine origin, into exceptional quality alcohol.", price: 25}]}],
 
 food: [{name: "HotDog", items:[
-        "30₪",
+        "25₪",
         "Extras:",
         "",
         'hotDog',
@@ -56,7 +56,7 @@ food: [{name: "HotDog", items:[
         {itemName: "Pickles"},
         {itemName: "BBQ, mayonnnaise, ketchup"}]},
       {name: "Fries", items:[
-        "30₪",
+        "15₪",
         "Extras:",
         "",
         'fries',
@@ -74,7 +74,7 @@ food: [{name: "HotDog", items:[
         {itemName: "Pickles"},
         {itemName: "BBQ, mayonnnaise, ketchup"}]},
       {name: "Salad", items:[
-        "30₪",
+        "20₪",
         "Extras:",
         "Lettuce, cherry tomatoes, cucumbers, red onion, olives, sauce",
         'salad',
@@ -115,8 +115,8 @@ food: [{name: "HotDog", items:[
     language: 0,
     drinks: [{name: "Без алкоголя", items:[
     {itemName: "Coca-Cola", imageURL: "https://bit.ly/3zJ0ami", description: "Бутылка 0.75мл", price: 15},
-    {itemName: "Сок", imageURL: "https://bit.ly/3zJ0ami", description: "", price: 10},
-    {itemName: "Коктейли", imageURL: "https://bit.ly/3zJ0ami", description: "В ассортименте у бармена", price: 20}]},
+    {itemName: "Сок", imageURL: "https://prigat.co.il/wp-content/themes/prigat2020/img/logo.png", description: "", price: 10},
+    {itemName: "Коктейли", imageURL: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F156561%2Fisolated%2Fpreview%2Feb07eab6dafdc48777077575f1c4bb79-bloody-mary-cocktail-icon-by-vexels.png&f=1&nofb=1", description: "В ассортименте у бармена", price: 20}]},
     {name: "Пиво", items: [
     {itemName: "Budweiser", imageURL: "https://bit.ly/3vVtxkq", description: "Ароматный, свежий лагер средней крепости в американском стиле. 5%", price: "15/20"},
     {itemName: "Edelweiss", imageURL: "https://www.edelweissbeer.com/frontend/assets/images/edelweiss-logo.svg", description: "Это особенно мягкое пиво сварено из натуральных ингредиентов с оттенком горных трав и специй. 4,8%", price: "15/20"},
@@ -151,7 +151,7 @@ food: [{name: "HotDog", items:[
     {itemName: "Captain Morgan", imageURL: "https://i.postimg.cc/J7XdPLCQ/captain-Morgan.png", description: "", price: 10}]}],
 
     food: [{name: "ХотДог", items:[
-        "30₪",
+        "25₪",
         "Добавки:",
         "",
         'hotDog',
@@ -160,7 +160,7 @@ food: [{name: "HotDog", items:[
         {itemName: "Соленые огурцы"},
         {itemName: "BBQ, майонез, кетчуп"}]},
       {name: "Картошка Фри", items:[
-        "30₪",
+        "15₪",
         "Добавки:",
         "",
         'fries',
@@ -178,7 +178,7 @@ food: [{name: "HotDog", items:[
         {itemName: "Соленые огурцы"},
         {itemName: "BBQ, майонез, кетчуп"}]},
       {name: "Салат", items:[
-        "30₪",
+        "20₪",
         "Добавки:",
         "Листья салата, помидоры черри, огурцы, красный лук, оливки, соус",
         'salad',
@@ -220,8 +220,8 @@ food: [{name: "HotDog", items:[
     language: 2,
     drinks: [{name: "לא אלכוהולי", items:[
     {itemName: "Coca-Cola", imageURL: "https://bit.ly/3zJ0ami", description: "בקבוק 0.75 מ'ל", price: 15},
-    {itemName: "Juice", imageURL: "https://bit.ly/3zJ0ami", description: "", price: 10},
-    {itemName: "Cocktail", imageURL: "https://bit.ly/3zJ0ami", description: "תשאלו את הברמן", price: 20}]},
+    {itemName: "Juice", imageURL: "https://prigat.co.il/wp-content/themes/prigat2020/img/logo.png", description: "", price: 10},
+    {itemName: "Cocktail", imageURL: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F156561%2Fisolated%2Fpreview%2Feb07eab6dafdc48777077575f1c4bb79-bloody-mary-cocktail-icon-by-vexels.png&f=1&nofb=1", description: "תשאלו את הברמן", price: 20}]},
     {name: "בירה", items: [
     {itemName: "Budweiser", imageURL: "https://bit.ly/3vVtxkq", description: "בעל גוף בינוני, טעים, לאגר פריך בסגנון אמריקאי. 5%", price: "15/20"},
     {itemName: "Edelweiss", imageURL: "https://www.edelweissbeer.com/frontend/assets/images/edelweiss-logo.svg", description: "בירה חלקה במיוחד זו מבושלת עם כל המרכיבים הטבעיים עם מגע של עשבי תיבול ותבלינים הרים. 4.8%", price: "15/20"},
@@ -257,7 +257,7 @@ food: [{name: "HotDog", items:[
     {itemName: "Xenta", imageURL: "https://xenta.com/wp-content/uploads/2019/04/cropped-logo-1-1.png", description: "מספק ערבוב ארוך וקפדני של 10 עשבי תיבול ותבלינים, בעיקר ממוצא אלפיני, לאלכוהול באיכות יוצאת דופן.", price: 25}]}],
 
     food: [{name: "נקניקיה", items:[
-        "30₪",
+        "25₪",
         "תוספות:",
         "",
         'hotDog',
@@ -266,7 +266,7 @@ food: [{name: "HotDog", items:[
         {itemName: "חמוצים"},
         {itemName: "רוטב ברביקיו, מיונז, קטשוף"}]},
       {name: "צ'יפס", items:[
-        "30₪",
+        "15₪",
         "תוספות:",
         "",
         'fries',
@@ -284,7 +284,7 @@ food: [{name: "HotDog", items:[
         {itemName: "חמוצים"},
         {itemName: "רוטב ברביקיו, מיונז, קטשוף"}]},
       {name: "סלט", items:[
-        "30₪",
+        "20₪",
         "תוספות:",
         "חסה, עגבניות שרי, מלפפונים, בצל אדום, זיתים, רוטב",
         'salad',

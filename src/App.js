@@ -16,7 +16,7 @@ function App() {
     <LanguageContext.Provider value={{language, setLanguage}}>
       <SlideContext.Provider value={{slide, setSlide}}>
         <Routes>
-            <Route path="/wild_menu" element={ <LangScreen/> } />
+            <Route path="/" element={ <LangScreen/> } />
             <Route path="menu" element={ <Menu/> } />
             
               <Route path='/' element={<Layout/>} >

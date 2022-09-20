@@ -1,6 +1,9 @@
 body{
     letter-spacing: 1px;
 }
+
+
+
 .mainWraper{
 font-family: 'Reggae One', cursive;
 height: calc(100vh - 50px);
